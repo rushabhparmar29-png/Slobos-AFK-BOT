@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "nikaD2010721198-VUiG.aternos.me",
+    "port": 28092,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -11,
+    "y": 62,
+    "z": 79
   },
   "utils": {
     "auto-auth": {
